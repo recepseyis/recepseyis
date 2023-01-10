@@ -11,9 +11,6 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on [Yenisinden](https://github.com/Yenisinden-com/v3)
-
-- 🤝 I’m looking for help with [Yenisinden](https://github.com/Yenisinden-com/v3)
 
 - 👨‍💻 All of my projects are available at [https://github.com/recepseyis](https://github.com/recepseyis)
 
