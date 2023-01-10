@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **stealtman@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
